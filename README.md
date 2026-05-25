@@ -1,4 +1,4 @@
-# MIR-Bench: A Chinese Benchmark for Converting Natural Language to Executable Medical Insurance Rules
+# T2ER: A Chinese Benchmark for Text-to-Executable-Rule Generation in Medical Insurance
 
 
 ## 📖 Abstract
